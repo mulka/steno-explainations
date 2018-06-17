@@ -1,1 +1,27 @@
+HAEPBT for hasn't:
+
+Wondering why the E is there?
+HAPBT for hadn't
+probably to distinguish it from that
+"AE" sometimes is used for the short A sound too in languages like Norwegian
+
+The other definition for hasn't makes more sense to me: HAFPBT
+
+I think this may be one of the exceptions to the theory which is there because it's convenient like SKP for "and"
+
+maybe AE is used as a disambiguator when the A version is already taken by something else
+
+AE is mainly used as a spelling disambiguator. For example: made vs maid. But it is also used for other things.
+The stroke PHAEPB is used for many, but it doesn't really have an "ea" in there.
+Seems like adding an E will often let you add a y at the end of a word.
+
+Other words that have a y ending:
+PWAEB for baby, TKPWRAEF for gravy, TPHAEL for -inally as in marginally, TPAERPL for pharmacy
+AE is also used for the single quote
+AES for 's, AE for a ending ', A*E for a starting '
+
+@Wilfried in the Plover Discord:
+It's common in the dictionary to make the vowel long, or mod it, to indicate -y at the end. Other examples are SOER for sorry, STOER for story, TPAOUPB for funny, TKOEUFLT for difficulty.
+It doesn't rise to the level of rule, since it's not that consistent, and you can always stroke the -y at the end instead, but it's a useful way to shorten the outline.
+With difficulty, difficult is TKEUFLT, so add an O to make TKOEUFLT.
 
