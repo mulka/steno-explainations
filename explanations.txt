@@ -21,7 +21,9 @@ AE is also used for the single quote
 AES for 's, AE for a ending ', A*E for a starting '
 
 @Wilfried in the Plover Discord:
-It's common in the dictionary to make the vowel long, or mod it, to indicate -y at the end. Other examples are SOER for sorry, STOER for story, TPAOUPB for funny, TKOEUFLT for difficulty.
-It doesn't rise to the level of rule, since it's not that consistent, and you can always stroke the -y at the end instead, but it's a useful way to shorten the outline.
+It's common in the dictionary to make the vowel long, or mod it, to indicate -y at the end.
+Other examples are SOER for sorry, STOER for story, TPAOUPB for funny, TKOEUFLT for difficulty.
+It doesn't rise to the level of rule, since it's not that consistent, and 
+you can always stroke the -y at the end instead, but it's a useful way to shorten the outline.
 With difficulty, difficult is TKEUFLT, so add an O to make TKOEUFLT.
 
